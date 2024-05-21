@@ -6,3 +6,10 @@
 6. Extract the project zip folder, and then open the flowchart named "Sentiment Analysis Flowchart".
 7. Install the 2 packages as shown in the video, and click on run.
 8. output will be stored in an excel sheet.
+
+1. Launch Browser Activity: Open the e-commerce website.
+2. Data Scraping Wizard: Select the review elements to scrape.
+3. For Each Page Activity: Handle pagination to scrape reviews from all pages.
+4. Write Range Activity: Save the scraped data to an Excel file.
+5. Close Browser Activity: Close the browser after scraping is complete.
+
